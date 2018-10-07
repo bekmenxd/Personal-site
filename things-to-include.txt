@@ -1,0 +1,17 @@
+Projects
+Files, can be private and public
+Things I do on my spare time
+TODO/GOALS
+Link to social medias
+Put up things so that I can remember them, like a link to something and write a small text about it maybe???
+Meme part of page where everyone can upload memes
+Fitness updater? :think:
+    include weekly weigh in
+    lifting numbers(when I start lifting again)
+    Calories for that week
+    include goal(can have a current goal that will be shown along with updates etc)
+    like a blog thing
+
+include a music section where I can upload music stuff, maybe link to a song and
+enter a video link(or just youtube) and make it save that to the file system that I got
+-||- same with pictures, user can choose personal or private
